@@ -1,4 +1,4 @@
-# Attendance-System
+# Face Recognition System
 
 The Face Recognition Attendance Project is a Python-based project that uses face recognition technology to recognize faces in real-time and mark the attendance of individuals. It utilizes the OpenCV library for capturing video from a webcam, the face_recognition library for face detection and recognition, and provides functionality to send an attendance report via email.
 
